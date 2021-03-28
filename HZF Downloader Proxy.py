@@ -1,6 +1,8 @@
 import os
 import requests
 
+version = 1.0
+
 def ProxyScape():
     global banner
     menu = input(banner + '\n1 - Скачать HTTP Proxy\n2 - Скачать Socks4 Proxy\n3 - Скачать Socks5 Proxy\n\n0 - Вернуться в главное меню\n')
@@ -104,12 +106,12 @@ def socks4DWScan():
     f.write(ufr.content)
     f.close()
     global banner
-    print(banner+"\nSocks4 Proxy List был скачен в папку C:/HZF ProxyList/\n\n\nНажмите ENTER для выхода в главное меню")
+    print(banner+"\nSocks4 Proxy List был скачен в папку C:/HZF ProxyList/\n\nНажмите ENTER для выхода в главное меню")
     input()
 
 def socks5DWScan():
     mkdir = 'c:/HZF ProxyList/'
-    system('cls')
+    os.system('cls')
     f=open(r'c:/HZF ProxyList/ProxyScan_SOCKS5_proxies.txt', "wb")
     ufr = requests.get("https://www.proxyscan.io/download?type=socks5")
     f.write(ufr.content)
