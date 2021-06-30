@@ -15,3 +15,6 @@
 
 # Telegram Channel
 * У HZF Downloader Proxy есть свой Telegram-канал! @hzfnews
+
+# Меню
+![image](https://user-images.githubusercontent.com/64781822/123987061-8bb0a780-d9cf-11eb-9a07-a02e10fa5001.png)
