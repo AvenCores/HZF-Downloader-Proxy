@@ -11,8 +11,6 @@
 # Важная информация
 * HZF Downloader Proxy работает только на Windows
 
-* Если появились вопросы, то пишите мне в Телеграм! @avencores
-
 # Telegram Channel
 * У HZF Downloader Proxy есть свой Telegram-канал! @hzfnews
 
