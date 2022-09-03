@@ -5,10 +5,10 @@
 * Распаковываем в удобную нам директорию
 * Запускаем Terminal
 * Переходим в корень с утилитой
-* Запускаем установку доп. компонентов: python Install.py
+* Запускаем установку доп. компонентов: **python Install.py**
 
 # Запуск
-* Вводим в Terminal: python "HZF Downloader Proxy.py"
+* Вводим в Terminal: **python "HZF Downloader Proxy.py"**
 
 # Важная информация
 * HZF Downloader Proxy работает только на Windows
