@@ -10,11 +10,9 @@
 # Запуск
 * Вводим в Terminal: **python "HZF Downloader Proxy.py"**
 
-# Важная информация
-* HZF Downloader Proxy работает только на Windows
-
 # Меню
-![image](https://user-images.githubusercontent.com/64781822/123987061-8bb0a780-d9cf-11eb-9a07-a02e10fa5001.png)
+
+![image](https://i.imgur.com/gpqMG9c.png)
 
 ___
 # 💰Поддержать проект:
