@@ -4,7 +4,7 @@ from termcolor import colored
 from pathlib import Path
 from sys import platform
 
-version = 1.1
+version = 2.0
 
 def ProxyScape():
     global banner
